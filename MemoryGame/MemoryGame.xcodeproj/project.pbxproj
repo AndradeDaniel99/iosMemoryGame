@@ -11,6 +11,7 @@
 		DF6AE92D277BD7F8008F0245 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF6AE92C277BD7F8008F0245 /* ContentView.swift */; };
 		DF6AE92F277BD7FC008F0245 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF6AE92E277BD7FC008F0245 /* Assets.xcassets */; };
 		DF6AE932277BD7FD008F0245 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF6AE931277BD7FD008F0245 /* Preview Assets.xcassets */; };
+		DF6AE939277BE1E4008F0245 /* MemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF6AE938277BE1E4008F0245 /* MemoryGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		DF6AE92C277BD7F8008F0245 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DF6AE92E277BD7FC008F0245 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF6AE931277BD7FD008F0245 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DF6AE938277BE1E4008F0245 /* MemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				DF6AE92A277BD7F8008F0245 /* MemoryGameApp.swift */,
 				DF6AE92C277BD7F8008F0245 /* ContentView.swift */,
+				DF6AE938277BE1E4008F0245 /* MemoryGame.swift */,
 				DF6AE92E277BD7FC008F0245 /* Assets.xcassets */,
 				DF6AE930277BD7FD008F0245 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF6AE939277BE1E4008F0245 /* MemoryGame.swift in Sources */,
 				DF6AE92D277BD7F8008F0245 /* ContentView.swift in Sources */,
 				DF6AE92B277BD7F8008F0245 /* MemoryGameApp.swift in Sources */,
 			);
