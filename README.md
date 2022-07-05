@@ -1,7 +1,3 @@
 # iosMemoryGame
 
-My first ios app, 
-
-it is a memory game, 
-
-written in SwiftUI, Swift.
+cs193p spring 2021 ios memory game in swiftUI.
