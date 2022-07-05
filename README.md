@@ -1,3 +1,3 @@
 # iosMemoryGame
 
-cs193p spring 2021 ios memory game in swiftUI.
+cs193p spring 2021 iOS memory game in swiftUI.
